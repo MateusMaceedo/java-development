@@ -34,6 +34,66 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>Castor - <a href="http://www.castor.org/">http://www.castor.org/</a>
 - <a>Cayenne - <a href="http://cayenne.apache.org/">http://cayenne.apache.org/</a>
 
+### Gerenciador de transação
+- <a>Spring AOP transaction - <a href="http://www.springsource.org/">http://www.springsource.org/</a>
+- <a>EJB (JTA) - <a href="http://www.oracle.com/technetwork/java/javaee/ejb/index.html">http://www.oracle.com/technetwork/java/javaee/ejb/index.html</a>
+
+### Agendamento de tarefas
+- <a>Timer Task JSE - <a href="http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/threads/timer.html">http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/threads/timer.html</a> 
+- <a>Quarts – <a href="http://quartz-scheduler.org/">http://quartz-scheduler.org/</a>
+- <a>EJB Timer Service – <a href="http://docs.oracle.com/javaee/6/tutorial/doc/bnboy.html">http://docs.oracle.com/javaee/6/tutorial/doc/bnboy.html</a>
+
+### Validação
+- <a>Commons Validator – <a href="http://commons.apache.org/validator/">http://commons.apache.org/validator/</a>
+- <a>Java Bean Validator – <a href="http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html">http://docs.oracle.com/javaee/6/tutorial/doc/gircz.html</a>
+
+### Chamadas assíncronas
+- <a>JSE Executor Services – <a href="http://docs.oracle.com/javase/tutorial/essential/concurrency/exinter.html">http://docs.oracle.com/javase/tutorial/essential/concurrency/exinter.html</a>
+- <a>EJB Asynchronous Method Invocation – <a href="http://docs.oracle.com/javaee/6/tutorial/doc/gkkqg.html">http://docs.oracle.com/javaee/6/tutorial/doc/gkkqg.html</a>
+- <a>EJB Message-Driven Bean – <a href="http://docs.oracle.com/javaee/6/tutorial/doc/gipko.html">http://docs.oracle.com/javaee/6/tutorial/doc/gipko.html</a>
+
+### Kit de interface gráficas desktop
+- <a>Swing – <a href="http://docs.oracle.com/javase/tutorial/uiswing/">http://docs.oracle.com/javase/tutorial/uiswing/</a>
+- <a>SwingX – <a href="http://swingx.java.net/">http://swingx.java.net/</a>
+- <a>JGoodies – <a href="http://swingx.java.net/">http://swingx.java.net/</a>
+- <a>SWT – <a href="http://www.eclipse.org/swt/">http://www.eclipse.org/swt/</a>
+- <a>SWT OPAL – <a href="http://code.google.com/a/eclipselabs.org/p/opal/">http://code.google.com/a/eclipselabs.org/p/opal/</a>
+
+### RAD interface gráficas desktop
+- <a>Eclipse Windows Builder – <a href="http://www.eclipse.org/windowbuilder/">http://www.eclipse.org/windowbuilder/</a>
+- <a>NetBeans Matisse – <a href="http://netbeans.org/features/java/swing.html">http://netbeans.org/features/java/swing.html</a>
+
+### Framework web
+- <a>Click – <a href="http://click.apache.org/">http://click.apache.org/</a>
+- <a>Wicket – <a href="http://wicket.apache.org/">http://wicket.apache.org/</a>
+- <a>Spring MVC – <a href="http://www.springsource.org/">http://www.springsource.org/</a>
+- <a>Struts – <a href="http://struts.apache.org/">http://struts.apache.org/</a>
+- <a>Mentawai – <a href="http://www.mentaframework.org/"> http://www.mentaframework.org/</a>
+- <a>JSF – <a href="http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html">http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html</a>
+- <a>VRaptor – <a href="http://vraptor.caelum.com.br/">http://vraptor.caelum.com.br/</a>
+
+### Framework web RIA
+- <a>GWT – <a href="https://developers.google.com/web-toolkit/">https://developers.google.com/web-toolkit/</a>
+- <a>Vaadin – <a href="https://vaadin.com/home">https://vaadin.com/home</a>
+- <a>ZK Framework – <a href="https://vaadin.com/home">http://www.zkoss.org</a>
+
+### Framework web full stack
+- <a>Grails – <a href="http://grails.org/">http://grails.org/</a>
+- <a>Ruby On Rails – <a href="http://rubyonrails.org/">http://rubyonrails.org/</a>
+- <a>OpenXava – <a href="http://www.openxava.org/">http://www.openxava.org/</a>
+
+### Provedores de JSF
+- <a>Mojorra – <a href="http://javaserverfaces.java.net/">http://javaserverfaces.java.net/</a>
+- <a>MyFaces – <a href="http://myfaces.apache.org/">http://myfaces.apache.org/</a>
+- <a>ADF – <a href="http://www.oracle.com/technetwork/developer-tools/adf/overview/index.html">http://www.oracle.com/technetwork/developer-tools/adf/overview/index.html</a>
+
+### Componentes JSF
+- <a>RichFaces – <a href="http://www.jboss.org/richfaces">http://www.jboss.org/richfaces</a>
+- <a>PrimeFaces – <a href="http://primefaces.org/">http://primefaces.org/</a>
+- <a>OpenFaces – <a href="http://openfaces.org/">http://openfaces.org/</a>
+- <a>IceFaces – <a href="http://www.icesoft.org/">http://www.icesoft.org/</a>
+- <a>EasyFaces – <a href="http://www.easyfaces.com.br">http://www.easyfaces.com.br</a>
+- <a>Gmaps4jsf – <a href="http://code.google.com/p/gmaps4jsf/">http://code.google.com/p/gmaps4jsf/</a>
 
 
 
