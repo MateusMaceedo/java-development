@@ -22,6 +22,9 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 ### Container IoC
 - <a>Spring – <a href="http://www.springsource.org/">http://www.springsource.org/</a></a>
 - <a>Guice – <a href="http://picocontainer.codehaus.org/">http://picocontainer.codehaus.org/</a></a>
+- <a>PicoContainer - <a href="http://code.google.com/p/google-guice/">http://code.google.com/p/google-guice/</a>
+- <a>EJB - <a href="http://www.oracle.com/technetwork/java/javaee/ejb/index.html">http://www.oracle.com/technetwork/java/javaee/ejb/index.html</a>
+- <a>CDI - <a href="http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html">http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html</a>
 
 
 
