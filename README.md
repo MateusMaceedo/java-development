@@ -26,8 +26,13 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>EJB - <a href="http://www.oracle.com/technetwork/java/javaee/ejb/index.html">http://www.oracle.com/technetwork/java/javaee/ejb/index.html</a>
 - <a>CDI - <a href="http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html">http://www.oracle.com/technetwork/articles/java/cdi-javaee-bien-225152.html</a>
 
-
-
+### Persistência
+- <a>Hibernate - <a href="http://www.hibernate.org/">http://www.hibernate.org/</a>
+- <a>Spring Data - <a href="http://www.springsource.org/">http://www.springsource.org/</a>
+- <a>iBatis - <a href="http://www.mybatis.org/">http://www.mybatis.org/</a>
+- <a>Torque - <a href="http://db.apache.org/torque/">http://db.apache.org/torque/</a>
+- <a>Castor - <a href="http://www.castor.org/">http://www.castor.org/</a>
+- <a>Cayenne - <a href="http://cayenne.apache.org/">http://cayenne.apache.org/</a>
 
 
 
