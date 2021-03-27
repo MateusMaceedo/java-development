@@ -20,18 +20,6 @@ dependendo da lista onde nosso módulo existe, os comandos serão executados com
 Dentro desse assunto, gostaria de publicar minha lista de frameworks e componentes Java utilizado nas minhas decisões arquiteturais no momento de arquiteturar uma solução. Qualquer sugestão é bem vinda!
 
 ### Container IoC
----
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: font-awesome-4.4.0/css/font-awesome.css
-     self_contained: no
-
----
-<i class="fa fa-renren fa-5x"></i>
-
 - <a>Spring – <a href="http://www.springsource.org/">http://www.springsource.org/</a></a>
 - <a>Guice – <a href="http://picocontainer.codehaus.org/">http://picocontainer.codehaus.org/</a></a>
 
