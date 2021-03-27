@@ -95,6 +95,62 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>EasyFaces – <a href="http://www.easyfaces.com.br">http://www.easyfaces.com.br</a>
 - <a>Gmaps4jsf – <a href="http://code.google.com/p/gmaps4jsf/">http://code.google.com/p/gmaps4jsf/</a>
 
+### Extensões JSF
+- <a>PrettyFaces – <a href="http://ocpsoft.org/prettyfaces/">http://ocpsoft.org/prettyfaces/</a>
+- <a>Omnifaces – <a href="https://showcase-omnifaces.rhcloud.com/">https://showcase-omnifaces.rhcloud.com/</a>
+
+### Soluções web mobil
+- <a>JSF RichFaces Mobile – <a href="http://www.jboss.org/richfaces">http://www.jboss.org/richfaces</a>
+- <a>JSF PrimeFaces Mobile – <a href="http://primefaces.org/">http://primefaces.org/</a>
+- <a>JSF OpenFaces Mobile – <a href="http://openfaces.org/">http://openfaces.org/</a>
+- <a>JSF IceFaces Mobile – <a href="http://www.icesoft.org/">http://www.icesoft.org/</a>
+- <a>Spring Mobile – <a href="http://www.springsource.org/">http://www.springsource.org/</a>
+- <a>JQuery Mobile – <a href="http://jquery.com/">http://jquery.com/</a>
+- <a>DOJO Mobile – <a href="http://dojotoolkit.org/">http://dojotoolkit.org/</a>
+
+### Autenticação e autorização web
+- <a>Spring Security – <a href="http://www.springsource.org/">http://www.springsource.org/</a>
+- <a>JGuard – <a href="http://jguard.xwiki.com/xwiki/bin/view/Main/WebHome">http://jguard.xwiki.com/xwiki/bin/view/Main/WebHome</a>
+- <a>JEE Container Managed Security (Configuração especifica para cada provedor de container JEE). Veja o Tomcat – <a href="http://tomcat.apache.org/tomcat-7.0-doc/realm-howto.html">http://tomcat.apache.org/tomcat-7.0-doc/realm-howto.html</a>
+
+### JEE web container standalone
+
+### JEE EJB container (web profile e JEE Full)
+
+### Relatórios
+
+### Gerador de gráficos charts
+
+### Web Services REST
+
+### Gerenciador de e-mails
+
+### Web Services SOAP
+
+### JavaScript
+
+### Integração com redes sociais
+
+### Cache
+
+### NoSQL
+
+### SGDB Java embutidos
+
+### Testes
+
+### Loggin
+
+### Testes cargas e perfomance
+
+### JSON
+
+### Boletos bancárioBoletos bancário
+
+### Manipulaçao de arquivos MS Office
+
+### Gerais
+
 
 
 
