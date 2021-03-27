@@ -1,5 +1,7 @@
 <img src="https://s2.glbimg.com/TES0H8Evg6phh91YTFr0rCyCxTk=/90x68/s2.glbimg.com/EVEqLFXR5M5rFugYYWIQtAg05_E=/0x0:100x100/75x75/s.glbimg.com/po/tt2/f/original/2016/03/01/java.png" width="60" height="60">
 
+
+
 #### JAVA
 Este projeto é uma coleção de tutoriais pequenos e focados - cada um cobrindo uma área única e bem definida de desenvolvimento no ecossistema Java. Aqui esta estudo particulares tendo como primazia todos os conceitos da linguagem, levando em consideração o desenvolvimento de API'S nivel backend, toda parte de desenvolvimento e modelagem de dados com integração ao banco de dados, esta em outro repositorio.
 
@@ -18,8 +20,8 @@ dependendo da lista onde nosso módulo existe, os comandos serão executados com
 Dentro desse assunto, gostaria de publicar minha lista de frameworks e componentes Java utilizado nas minhas decisões arquiteturais no momento de arquiteturar uma solução. Qualquer sugestão é bem vinda!
 
 ### Container IoC
-- <a href="http://www.springsource.org/">http://www.springsource.org/</a>
-- <a href="http://picocontainer.codehaus.org/">http://picocontainer.codehaus.org/</a>
+- <a>Spring – <a href="http://www.springsource.org/">http://www.springsource.org/</a></a>
+- <a>Guice – <a href="http://picocontainer.codehaus.org/">http://picocontainer.codehaus.org/</a></a>
 
 
 
