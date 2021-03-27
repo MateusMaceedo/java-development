@@ -114,18 +114,47 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>JEE Container Managed Security (Configuração especifica para cada provedor de container JEE). Veja o Tomcat – <a href="http://tomcat.apache.org/tomcat-7.0-doc/realm-howto.html">http://tomcat.apache.org/tomcat-7.0-doc/realm-howto.html</a>
 
 ### JEE web container standalone
+- <a>Tomcat – <a href="http://tomcat.apache.org/">http://tomcat.apache.org/</a>
+- <a>Jetty – <a href="http://jetty.codehaus.org/jetty/">http://jetty.codehaus.org/jetty/</a>
+- <a>JBoss – <a href="http://www.jboss.org/">http://www.jboss.org/</a>
 
 ### JEE EJB container (web profile e JEE Full)
+- <a>Tomee –
+- <a>Simpas –
+- <a>Resin –
+- <a>JBoss –
+- <a>Glassfish –
+- <a>Webshere –
+- <a>WebLogic –
+- <a>Geronimo –
 
 ### Relatórios
+- <a>iReport –
+- <a>DynamicReport –
+- <a>Birt –
+- <a>iText –
+- <a>PDFBox –
 
 ### Gerador de gráficos charts
+- <a>JFreechart –
+- <a>HighCharts –
 
 ### Web Services REST
+- <a>Jersey –
+- <a>Restlet –
+- <a>RestEasy –
+- <a>Serfj –
+- <a>CXF –
 
 ### Gerenciador de e-mails
+- <a>Commons Email –
+- <a>JavaMail –
 
 ### Web Services SOAP
+- <a>Metro –
+- <a>Axis –
+- <a>XFire –
+- <a>CXF –
 
 ### JavaScript
 
