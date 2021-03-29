@@ -8,8 +8,9 @@ Este projeto é uma coleção de tutoriais pequenos e focados - cada um cobrindo
 # Executando os testes
 O comando mvn clean installde dentro de um módulo executará os testes de unidade nesse módulo. Para módulos Spring, isso também executará oSpringContextTest if present.
 
+>Para executar os testes de integração, use o comando: 
+
 ````
-Para executar os testes de integração, use o comando:
 mvn clean install -Pintegration-lite-first ou
 mvn clean install -Pintegration-lite-second ou
 mvn clean install -Pintegration-heavy
@@ -180,6 +181,9 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 
 ### Gerais
 
-
-
+## 👨🏻‍🚀 Sobre mim
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
 
