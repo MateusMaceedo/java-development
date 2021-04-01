@@ -120,66 +120,114 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>JBoss – <a href="http://www.jboss.org/">http://www.jboss.org/</a>
 
 ### JEE EJB container (web profile e JEE Full)
-- <a>Tomee –
-- <a>Simpas –
-- <a>Resin –
-- <a>JBoss –
-- <a>Glassfish –
-- <a>Webshere –
-- <a>WebLogic –
-- <a>Geronimo –
+- <a>Tomee – <a href="http://openejb.apache.org/apache-tomee.html">http://openejb.apache.org/apache-tomee.html</a>
+- <a>Simpas – <a href="http://siwpas.mechsoft.com.tr/">http://siwpas.mechsoft.com.tr/</a>
+- <a>Resin – <a href="http://www.caucho.com/resin-application-server/">http://www.caucho.com/resin-application-server/</a>
+- <a>JBoss – <a href="http://www.jboss.org/">http://www.jboss.org/</a>
+- <a>Glassfish – <a href="http://glassfish.java.net/">http://glassfish.java.net/</a>
+- <a>Webshere – <a href="http://www-142.ibm.com/software/products/br/pt/appserv-was">http://www-142.ibm.com/software/products/br/pt/appserv-was</a>
+- <a>WebLogic – <a href="http://www.oracle.com/us/products/middleware/application-server/weblogic-suite/index.html?ssSourceSiteId=ocombr">http://www.oracle.com/us/products/middleware/application-server/weblogic-suite/index.html?ssSourceSiteId=ocombr</a>
+- <a>Geronimo – <a href="http://geronimo.apache.org/">http://geronimo.apache.org/</a>
 
 ### Relatórios
-- <a>iReport –
-- <a>DynamicReport –
-- <a>Birt –
-- <a>iText –
-- <a>PDFBox –
+- <a>iReport – <a href="http://jasperforge.org/projects/ireport">http://jasperforge.org/projects/ireport</a>
+- <a>DynamicReport – <a href="http://dynamicreports.sourceforge.net">http://dynamicreports.sourceforge.net</a>
+- <a>Birt – <a href="http://www.eclipse.org/birt/phoenix/">http://www.eclipse.org/birt/phoenix/</a>
+- <a>iText – <a href="http://itextpdf.com/">http://itextpdf.com/</a>
+- <a>PDFBox – <a href="http://itextpdf.com/">http://pdfbox.apache.org/</a>
 
 ### Gerador de gráficos charts
-- <a>JFreechart –
-- <a>HighCharts –
+- <a>JFreechart – <a href="http://www.jfree.org/jfreechart/">http://www.jfree.org/jfreechart/</a>
+- <a>HighCharts – <a href="http://www.highcharts.com/">http://www.highcharts.com/</a>
 
 ### Web Services REST
-- <a>Jersey –
-- <a>Restlet –
-- <a>RestEasy –
-- <a>Serfj –
-- <a>CXF –
+- <a>Jersey – <a href="http://jersey.java.net/">http://jersey.java.net/</a>
+- <a>Restlet – <a href="http://www.restlet.org/">http://www.restlet.org/</a>
+- <a>RestEasy – <a href="http://www.jboss.org/resteasy/">http://www.jboss.org/resteasy/</a>
+- <a>Serfj – <a href="http://serfj.sourceforge.net/">http://serfj.sourceforge.net/</a>
+- <a>CXF – <a href="http://cxf.apache.org/">http://cxf.apache.org/</a>
 
 ### Gerenciador de e-mails
-- <a>Commons Email –
-- <a>JavaMail –
+- <a>Commons Email – <a href="http://commons.apache.org/email/">http://commons.apache.org/email/</a>
+- <a>JavaMail – <a href="http://www.oracle.com/technetwork/java/javamail/index.html">http://www.oracle.com/technetwork/java/javamail/index.html</a>
 
 ### Web Services SOAP
-- <a>Metro –
-- <a>Axis –
-- <a>XFire –
-- <a>CXF –
+- <a>Metro – <a href="http://jax-ws.java.net/">http://jax-ws.java.net/</a>
+- <a>Axis – <a href="http://axis.apache.org/axis/">http://axis.apache.org/axis/</a>
+- <a>XFire – <a href="http://xfire.codehaus.org/">http://xfire.codehaus.org/</a>
+- <a>CXF – <a href="http://xfire.codehaus.org/">http://cxf.apache.org/</a>
 
 ### JavaScript
+- <a>DOJO Toolkit - <a href="http://dojotoolkit.org/">http://dojotoolkit.org/</a>
+- <a>JQuery - <a href="http://jquery.com/">http://jquery.com/</a>
+- <a>Ext-JS - <a href="http://docs.sencha.com/ext-js/4-0/">http://docs.sencha.com/ext-js/4-0/</a>
+- <a>DWR - <a href="http://directwebremoting.org/dwr/index.html">http://directwebremoting.org/dwr/index.html</a>
 
 ### Integração com redes sociais
+- <a>Spring Social - <a href="http://www.springsource.org/">http://www.springsource.org/</a>
 
 ### Cache
+- <a>Space4J – <a href="http://www.space4j.org/">http://www.space4j.org/</a>
+- <a>Memcache - <a href="http://memcached.org/">http://memcached.org/</a>
+- <a>Ecache – <a href="http://ehcache.org/">http://ehcache.org/</a>
+- <a>Prevayler – <a href="http://prevayler.org/">http://prevayler.org/</a>
+- <a>JBoss Infinispan – <a href="http://www.jboss.org/infinispan.html">http://www.jboss.org/infinispan.html</a>
 
 ### NoSQL
+- <a>MongoDB – <a href="http://www.mongodb.org/">http://www.mongodb.org/</a>
+- <a>Neo4j – <a href="http://neo4j.org/">http://neo4j.org/</a>
+- <a>Db4o – <a href="http://www.db4o.com/">http://www.db4o.com/</a>
+- <a>MemcachedDB – <a href="http://memcachedb.org/">http://memcachedb.org/</a>
+- <a>CouchDB – <a href="http://couchdb.apache.org/">http://couchdb.apache.org/</a>
+- <a>Project Voldemort – <a href="http://project-voldemort.com/">http://project-voldemort.com/</a>
+- <a>MarkLkogic Server – <a href="http://www.marklogic.com/">http://www.marklogic.com/</a>
+- <a>BaseX – <a href="http://basex.org/">http://basex.org/</a>
+- <a>SimpleDB – <a href="http://aws.amazon.com/simpledb/">http://aws.amazon.com/simpledb/</a>
+- <a>HBase – <a href="http://hbase.apache.org/">http://hbase.apache.org/</a>
+- <a>Casandra – <a href="http://cassandra.apache.org/">http://cassandra.apache.org/</a>
+- <a>Hypertable – <a href="http://hypertable.org/">http://hypertable.org/</a>
+- <a>OrientBD – <a href="http://www.orientechnologies.com/">http://www.orientechnologies.com/</a>
 
 ### SGDB Java embutidos
+- <a>HyperSQL – <a href="http://hsqldb.org/">http://hsqldb.org/</a>
+- <a>JavaDB – <a href="http://www.oracle.com/technetwork/java/javadb/overview/index.html">http://www.oracle.com/technetwork/java/javadb/overview/index.html</a>
+- <a>Apache Derby – <a href="http://db.apache.org/derby/">http://db.apache.org/derby/</a>
+- <a>H2Database – <a href="http://www.h2database.com">http://www.h2database.com</a>
 
 ### Testes
+- <a>DBUnit – <a href="http://www.dbunit.org/">http://www.dbunit.org/</a>
+- <a>JUnit – <a href="http://www.junit.org/">http://www.junit.org/</a>
+- <a>EJBUnit – <a href="http://ejb3unit.sourceforge.net/">http://ejb3unit.sourceforge.net/</a>
+- <a>JSFUnit – <a href="http://www.jboss.org/jsfunit/">http://www.jboss.org/jsfunit/</a>
 
 ### Loggin
+- <a>jse – <a href="http://docs.oracle.com/javase/7/docs/api/java/util/logging/package-summary.html">http://docs.oracle.com/javase/7/docs/api/java/util/logging/package-summary.html</a>
+- <a>Log4J – <a href="http://logging.apache.org/index.html">http://logging.apache.org/index.html</a>
 
 ### Testes cargas e perfomance
+- <a>JMeter – <a href="http://jmeter.apache.org/">http://jmeter.apache.org/</a>
+- <a>WebLoad – <a href="http://www.webload.org/">http://www.webload.org/</a>
 
 ### JSON
+- <a>JSON – <a href="http://www.json.org/java/">http://www.json.org/java/</a>
+- <a>XStream – <a href="http://xstream.codehaus.org/json-tutorial.html">http://xstream.codehaus.org/json-tutorial.html</a>
+- <a>Google-JSON – <a href="http://code.google.com/p/google-gson/">http://code.google.com/p/google-gson/</a>
 
 ### Boletos bancárioBoletos bancário
+- <a>Boletos Bancário - <a href="http://www.boletobancario.com.br">http://www.boletobancario.com.br</a>
+- <a>Bopepo – <a href="http://www.jrimum.org/bopepo/">http://www.jrimum.org/bopepo/</a>
+- <a>Stella – <a href="http://github.com/caelum/caelum-stella/wiki/Gerando-boleto">http://github.com/caelum/caelum-stella/wiki/Gerando-boleto</a>
 
 ### Manipulaçao de arquivos MS Office
+- <a>Apache POI – <a href="http://poi.apache.org/">http://poi.apache.org/</a>
+- <a>JExcelApi – <a href="http://jexcelapi.sourceforge.net/">http://jexcelapi.sourceforge.net/</a>
+- <a>Docx4j – <a href="http://dev.plutext.org/trac/docx4j">http://dev.plutext.org/trac/docx4j</a>
+- <a>Java Docx – <a href="http://www.javadocx.com/">http://www.javadocx.com/</a>
+- <a>Aspose – <a href="http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx">http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx</a>
 
 ### Gerais
+- <a>Maven – Gerenciador de dependências – <a href="http://maven.apache.org/">http://maven.apache.org/</a>
+- <a>JLicense – Gerenciador de licenciamento de uso de software – <a href="http://www.websina.com/products/jlicense.html">http://www.websina.com/products/jlicense.html</a>
 
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
