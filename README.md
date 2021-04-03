@@ -16,13 +16,17 @@ mvn clean install -Pintegration-lite-second ou
 mvn clean install -Pintegration-heavy
 ````
 
-## Piramide testes
+## Pirâmide testes
 
 <img src="https://devporai.com.br/wp-content/uploads/2020/02/Pir%C3%A2mide-testes.png" width="619" height="341">
 
 dependendo da lista onde nosso módulo existe, os comandos serão executados com sucesso.
 
 Dentro desse assunto, gostaria de publicar minha lista de frameworks e componentes Java utilizado nas minhas decisões arquiteturais no momento de arquiteturar uma solução. Qualquer sugestão é bem vinda!
+
+## Arquiquetura para aplicações com microservice
+
+<img src="https://res.infoq.com/articles/twelve-testing-techniques-microservices-intro/en/resources/twelve-testing-techniques-microservices-intro-1-1565852737541.jpg" width="842" height="456">
 
 ### Container IoC
 - <a>Spring – <a href="http://www.springsource.org/">http://www.springsource.org/</a></a>
