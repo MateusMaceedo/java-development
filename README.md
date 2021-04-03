@@ -16,7 +16,8 @@ mvn clean install -Pintegration-lite-second ou
 mvn clean install -Pintegration-heavy
 ````
 
-Piramide testes
+## Piramide testes
+
 <img src="https://devporai.com.br/wp-content/uploads/2020/02/Pir%C3%A2mide-testes.png" width="619" height="341">
 
 dependendo da lista onde nosso módulo existe, os comandos serão executados com sucesso.
