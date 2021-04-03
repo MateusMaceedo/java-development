@@ -24,7 +24,7 @@ dependendo da lista onde nosso módulo existe, os comandos serão executados com
 
 Dentro desse assunto, gostaria de publicar minha lista de frameworks e componentes Java utilizado nas minhas decisões arquiteturais no momento de arquiteturar uma solução. Qualquer sugestão é bem vinda!
 
-## Arquiquetura para aplicações com microservice
+## Arquiquetura para aplicações com microservices
 
 <img src="https://res.infoq.com/articles/twelve-testing-techniques-microservices-intro/en/resources/twelve-testing-techniques-microservices-intro-1-1565852737541.jpg" width="842" height="456">
 
