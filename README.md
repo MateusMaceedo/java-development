@@ -196,6 +196,10 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>Hypertable – <a href="http://hypertable.org/">http://hypertable.org/</a>
 - <a>OrientBD – <a href="http://www.orientechnologies.com/">http://www.orientechnologies.com/</a>
 
+### Gerenciador de schemas SGDB
+- <a>Liquibase - <a href="https://www.liquibase.org/">https://www.liquibase.org/</a>
+- <a>Flyway - <a href="https://flywaydb.org/documentation/">https://flywaydb.org/documentation/</a>
+
 ### SGDB Java embutidos
 - <a>HyperSQL – <a href="http://hsqldb.org/">http://hsqldb.org/</a>
 - <a>JavaDB – <a href="http://www.oracle.com/technetwork/java/javadb/overview/index.html">http://www.oracle.com/technetwork/java/javadb/overview/index.html</a>
