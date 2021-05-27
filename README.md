@@ -3,7 +3,9 @@
 
 
 <h1> JAVA </h1>
+<p align="justify">
 Este projeto é uma coleção de tutoriais pequenos e focados - cada um cobrindo uma área única e bem definida de desenvolvimento no ecossistema Java. Aqui esta todos meus estudos particulares tendo como primazia todos os conceitos da linguagem, levando em consideração o desenvolvimento de API'S nivel backend, toda parte de desenvolvimento e modelagem de dados com integração ao banco de dados, esta em outro repositorio.
+<p>
 
 # Executando os testes
 O comando mvn clean installde dentro de um módulo executará os testes de unidade nesse módulo. Para módulos Spring, isso também executará oSpringContextTest if present.
