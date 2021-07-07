@@ -243,6 +243,10 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>Maven – Gerenciador de dependências – <a href="http://maven.apache.org/">http://maven.apache.org/</a>
 - <a>JLicense – Gerenciador de licenciamento de uso de software – <a href="http://www.websina.com/products/jlicense.html">http://www.websina.com/products/jlicense.html</a>
 
+#### Boas práticas 
+[Code Review](https://www.javacodegeeks.com/2021/04/guidelines-for-java-code-review.html)
+
+
 ## 👨🏻‍🚀 Sobre mim
 <a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
  <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
