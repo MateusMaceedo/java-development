@@ -244,7 +244,7 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>JLicense – Gerenciador de licenciamento de uso de software – <a href="http://www.websina.com/products/jlicense.html">http://www.websina.com/products/jlicense.html</a>
 
 #### Boas práticas 
-[Code Review](https://www.javacodegeeks.com/2021/04/guidelines-for-java-code-review.html)
+- [x] [Code Review](https://www.javacodegeeks.com/2021/04/guidelines-for-java-code-review.html)
 
 
 ## 👨🏻‍🚀 Sobre mim
