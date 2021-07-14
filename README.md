@@ -245,7 +245,7 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 
 #### Boas práticas 
 - [x] [Code Review](https://www.javacodegeeks.com/2021/04/guidelines-for-java-code-review.html)
-- [x] [Libs de teste para proteger a arquitetura das aplicações:]
+- [x] Libs de teste para proteger a arquitetura das aplicações:
 - [.NET](https://archunitnet.readthedocs.io/en/latest/)
 - [JAVA](https://www.archunit.org/)
 
