@@ -31,3 +31,14 @@
 - Desejável conhecimento em Angular 2+;
 - Desejável Apache Camel;
 
+APIs in the following stacks: Spring Framework/JPA/JDK8/Redis/Maven/IBM MQ/SQL Server
+Besides projects, also working to improve Run the Bank concepts using SRE Models for increasing their reliability, performing regression and system-level testing to verify software quality and function prior to release.
+
+Main technologies:
+Java 8 – Spring, JPA,Hibernate, Rest Api, SOAP webservice
+COBOL – IBM Rdz, TSO, Cobol 6, DB2
+• Framework: Spring, EJB, JPA, Hibernate, Spring, JUnit, IBM RDz
+• Development Methodology: Scrum and Waterfall
+• Microservices, TDD, DDD
+• Maven, Artifactory, Sonar, Fortify
+• Observability (Splunk, AppDynamics)
