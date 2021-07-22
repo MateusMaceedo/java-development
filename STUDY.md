@@ -1,4 +1,4 @@
-#### Estudos Desenvolvimento Java Pleno
+### Estudos Desenvolvimento Java Pleno
 
 - Java 8, Spring Boot, Mensageria e REST/SOAP;
 - Design Patterns;
