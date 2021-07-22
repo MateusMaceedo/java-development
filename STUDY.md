@@ -32,6 +32,7 @@
 - Desejável Apache Camel;
 
 - [x] Backend
+
 APIs in the following stacks: Spring Framework/JPA/JDK8/Redis/Maven/IBM MQ/SQL Server
 Besides projects, also working to improve Run the Bank concepts using SRE Models for increasing their reliability, performing regression and system-level testing to verify software quality and function prior to release.
 
