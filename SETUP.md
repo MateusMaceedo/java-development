@@ -1,5 +1,5 @@
 #### Setup JDK, Maven, Gradle, Git, Docker e Kotlin no linux.
 
-- [x] - [GIT](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjFwN3gwM2pxNDRwNG4xRGxMOW5SVDJrTWM3Z3xBQ3Jtc0tuUHpqNm5vV2RobUZWNVd2VW9ELTUyUnk1bDZVMldCLW0xTGRSd2ZFRHdvLUg2dXV6bnBRU0xhN21tTWR5NVlkTnQwZWJ5a0JSUnFaTlVBbEtaLUhOUXk1blJiYUNqS3FSVnZXUXhDRFJsckswTThXaw&q=https%3A%2F%2Fgit-scm.com%2Fbook%2Fpt-br%2Fv2%2FCome%25C3%25A7ando-Instalando-o-Git)
-- [x] - [Docker](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHdsS2toYUlqVGpRYW1XVkxPeFpDS1VXRzgzUXxBQ3Jtc0tuVUZpUUVkT1hzcW9yT25SS3lrYnlRRFFicXkxZHJma0N1VEdlUnVONEtNT3BWSi00Y3ZSU2JqVDRCYmtpLWhaRDB1bzJrVXFMbUo1WDduT2ZCaG0xRTMxNWx0b1hNUnFON2RORF9hZGx4WS1ESFh6Yw&q=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Fhow-to-install-and-use-docker-on-ubuntu-18-04)
-- [x] - [Docker Compose](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGk0aU1xdzY5TTA4bUg2ekJ5Wndpd0FzUmkxd3xBQ3Jtc0tsbXZTbWt1ZF85WlFfdTVYMUhHTmE5bHVPbjU4Z2g5RVFUZ1QxSnJZLWpVLTVSXzlTYmxNMHBBZElyeUh2Wnk0MGs4VWlnbDlWTUVRWlZ1RnJ2YmswVG5YZmRPZVc5NFB5Zk42VzJKSDBKMnpqS245bw&q=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Fhow-to-install-docker-compose-on-ubuntu-18-04)
+- [x] - [GIT](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
+- [x] - [Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+- [x] - [Docker Compose](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
