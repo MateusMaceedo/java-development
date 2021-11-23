@@ -1,0 +1,4 @@
+br/com/mali/MELIApplication.class
+br/com/mali/model/User$UserBuilder.class
+br/com/mali/model/User.class
+br/com/mali/controllers/UserController.class
