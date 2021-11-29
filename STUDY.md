@@ -57,6 +57,7 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 
 
 |ACRÔNIMO	| DESCRIÇÃO                                                        |
+----------| -----------------------------------------------------------------|
 |IHM	    | Interface Homem Máquina                                          |
 |JSP	    | Java Server Pages (Páginas Java)                                 |
 |POJO	    | Plain Old Java Object (Objeto Java Simples)                      |
@@ -73,31 +74,31 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 
 #### 4. Padrões de projetos
 
-**Padrões criacionais
+##### 4.1 Padrões criacionais
 
-- Abstract Factory 
-Permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
+> Abstract Factory 
+- Permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
 
-- Adapter 
-Permite a colaboração de objetos de interfaces incompatíveis.
+> Adapter 
+- Permite a colaboração de objetos de interfaces incompatíveis.
 
-- Builder 
-Permite construir objetos complexos passo a passo. O padrão permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
+> Builder 
+- Permite construir objetos complexos passo a passo. O padrão permite produzir diferentes tipos e representações de um objeto usando o mesmo código de construção.
 
-- Bridge 
-Permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas—abstração e implementação—que podem ser desenvolvidas independentemente umas das outras.
+> Bridge 
+- Permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas—abstração e implementação—que podem ser desenvolvidas independentemente umas das outras.
 
-- Factory Method 
-Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
+> Factory Method 
+- Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
 
-- Composite 
-Permite que você componha objetos em estrutura de árvores e então trabalhe com essas estruturas como se fossem objetos individuais.
+> Composite 
+- Permite que você componha objetos em estrutura de árvores e então trabalhe com essas estruturas como se fossem objetos individuais.
 
-- Prototype 
-Permite que você copie objetos existentes sem fazer seu código ficar dependente de suas classes.
+> Prototype 
+- Permite que você copie objetos existentes sem fazer seu código ficar dependente de suas classes.
 
-- Decorator 
-Permite que você adicione novos comportamentos a objetos colocando eles dentro de um envoltório (wrapper) de objetos que contém os comportamentos.
+> Decorator 
+- Permite que você adicione novos comportamentos a objetos colocando eles dentro de um envoltório (wrapper) de objetos que contém os comportamentos.
 
 - Singleton 
 Permite a você garantir que uma classe tem apenas uma instância, enquanto provê um ponto de acesso global para esta instância.
@@ -111,7 +112,7 @@ Permite que você coloque mais objetos na quantidade disponível de RAM ao compa
 - Proxy 
 Permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
 
-**Padrões comportamentais
+##### 4.2 Padrões comportamentais
 
 - Chain of Responsibility 
 Permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler decide se processa o pedido ou passa para o próximo handler da corrente.
