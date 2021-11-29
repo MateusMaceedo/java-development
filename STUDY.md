@@ -5,7 +5,6 @@
 - Conhecimento em AWS cloud: EC2, ELB, S3, CloudWatch, Route53, API Gateway, Beanstalk e Lambda;
 - Desejável conhecimento em Testes Unitários (JUnits), Jenkins, Docker, Kubernetes e arquitetura de microsserviços;
 - Desejável conhecimento em Kotlin.
-
 - Experiência em: Java 8+ 
 - Spring Boot 
 - Cloud Azure 
@@ -21,7 +20,6 @@
 - DDD 
 - Docker  
 - Arquitetura de microservices.
-
 - Experiência em Java 8+
 - spring boot,
 - swagger,
@@ -100,40 +98,85 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 > Decorator 
 - Permite que você adicione novos comportamentos a objetos colocando eles dentro de um envoltório (wrapper) de objetos que contém os comportamentos.
 
-- Singleton 
-Permite a você garantir que uma classe tem apenas uma instância, enquanto provê um ponto de acesso global para esta instância.
+> Singleton 
+- Permite a você garantir que uma classe tem apenas uma instância, enquanto provê um ponto de acesso global para esta instância.
 
-- Facade 
-Fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer outro conjunto complexo de classes.
+> Facade 
+- Fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer outro conjunto complexo de classes.
 
-- Flyweight 
-Permite que você coloque mais objetos na quantidade disponível de RAM ao compartilhar partes do estado entre múltiplos objetos ao invés de manter todos os dados em cada objeto.
+> Flyweight 
+- Permite que você coloque mais objetos na quantidade disponível de RAM ao compartilhar partes do estado entre múltiplos objetos ao invés de manter todos os dados em cada objeto.
 
-- Proxy 
-Permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
+> Proxy 
+- Permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
 
 ##### 4.2 Padrões comportamentais
 
-- Chain of Responsibility 
-Permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler decide se processa o pedido ou passa para o próximo handler da corrente.
+> Chain of Responsibility 
+- Permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler decide se processa o pedido ou passa para o próximo handler da corrente.
 
-- Command 
-Transforma o pedido em um objeto independente que contém toda a informação sobre o pedido. Essa Transformação permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila, e suporte operações que não podem ser feitas.
+> Command 
+- Transforma o pedido em um objeto independente que contém toda a informação sobre o pedido. Essa Transformação permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila, e suporte operações que não podem ser feitas.
 
-- Iterator 
-Permite que você percorra elementos de uma coleção sem expor as representações estruturais deles (lista, pilha, árvore, etc.)
+> Iterator 
+- Permite que você percorra elementos de uma coleção sem expor as representações estruturais deles (lista, pilha, árvore, etc.)
 
-- Mediator 
-Permite que você reduza as dependências caóticas entre objetos. O padrão restringe comunicações diretas entre objetos e os força a colaborar apenas através do objeto mediador.
+> Mediator 
+- Permite que você reduza as dependências caóticas entre objetos. O padrão restringe comunicações diretas entre objetos e os força a colaborar apenas através do objeto mediador.
 
-- Memento 
-Permite que você salve e restaure o estado anterior de um objeto sem revelar os detalhes de sua implementação.
+> Memento 
+- Permite que você salve e restaure o estado anterior de um objeto sem revelar os detalhes de sua implementação.
 
-- Strategy 
-Permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
+> Strategy 
+- Permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis.
 
-- Template Method 
-Define o esqueleto de um algoritmo na superclasse mas deixa as subclasses sobrescreverem etapas específicas do algoritmo sem modificar sua estrutura.
+> Template Method 
+- Define o esqueleto de um algoritmo na superclasse mas deixa as subclasses sobrescreverem etapas específicas do algoritmo sem modificar sua estrutura.
 
-- Visitor 
-Permite que você separe algoritmos dos objetos nos quais eles operam.
+> Visitor 
+- Permite que você separe algoritmos dos objetos nos quais eles operam.
+
+#### 5. Diferenças entre Padrões de Projeto e Padrões Arquiteturais:
+
+Padrões de projetos, porque aplicar?
+
+- Encurta a sua decisão, você acaba tomando as decisões mais rapido.
+- Facilita em varias areas, como exemplo aréa de passagens de conhecimento como unboarding, pra outras areas, equipes etc..
+- Ajuda a ser assertivo, na hora de encontrar e resolver problemas.
+
+Padrões de arquitetura, porque aplicar?
+
+- Padrões estruturais, definem a estrutura e responsabilidade das camadas, define como a sua aplicação será dividida;
+- Facilidade em manuntenção, porque o código sera sempre igual, mudando apenas as regras;
+- Facidade na hora de explicar o fluxo da aplicação, para gerar insumos para novas implementações;
+- Aumento de produtividade;
+- Uniformidade na estrutura do software;
+- Redução de complexidade no código;
+- As aplicações ficam mais fácies de manter;
+- Facilita a documentação;
+- Estabelece um vocabulário comum de projeto entre desenvolvedores;
+- Permite a reutilização de módulos do sistema em outros sistemas;
+- É considerada uma boa prática utilizar um conjunto de padrões para resolver problemas maiores que, sozinhos, não conseguiriam;
+- Ajuda a construir softwares confiáveis com arquiteturas testadas;
+- Reduz o tempo de desenvolvimento de um projeto.
+
+#### 5.1 Vantagens e desvantagens do padrão MVC
+
+- Separação muito clara entre as camadas de visualização e regras de negócios;
+- Manutenção do sistema se torna mais fácil;
+- Reaproveitamento de código, principalmente da camada de modelo, que pode ser reutilizada em outros projetos;
+- As alterações na camada de visualização não afetam as regras de negócios já implementadas na camada de modelo;
+- Permite o desenvolvimento, testes e manutenção de forma isolada entre as camadas;
+- O projeto passa a ter uma melhor organização em sua arquitetura;
+- Torna o entendimento do projeto mais fácil para novos programadores que não participaram de sua criação.
+- As desvantagens são poucas, mas alguns desenvolvedores acabam não usando o padrão MVC por conta delas, veja algumas:
+- Em sistemas de baixa complexidade, o MVC pode criar uma complexidade desnecessária;
+- Exige muita disciplina dos desenvolvedores em relação à separação das camadas;
+- Requer um tempo maior para modelar o sistema.
+
+#### 5.2 Exemplos de padrões arquiteturais:
+
+- [MVC - O Padão MCV (modelo Model-View-Controller)](https://www.devmedia.com.br/padrao-mvc-java-magazine/21995)
+- [MVP - O Padrão MVP (Model-View-Presenter)](https://www.devmedia.com.br/o-padrao-mvp-model-view-presenter/3043)
+- [N-TIERS - O Padrão N-TIES (Arqui-N-Camadas)](https://pt.stackoverflow.com/questions/26735/o-que-realmente-%C3%A9-uma-aplica%C3%A7%C3%A3o-n-tier)
+- [MVVM - O Padrão MVVM (Model-View-ViewModel)](https://www.devmedia.com.br/entendendo-o-pattern-model-view-viewmodel-mvvm/18411)
