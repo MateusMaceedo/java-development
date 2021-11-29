@@ -72,6 +72,8 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 
 #### 4. Padrões de projetos
 
+- [A importância dos Padrões de Projeto](https://www.devmedia.com.br/a-importancia-dos-padroes-de-projeto/22549)
+
 ##### 4.1 Padrões criacionais
 
 > Abstract Factory 
