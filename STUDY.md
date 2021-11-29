@@ -70,6 +70,10 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 |TLD	    | Tag Library Descriptor (Descritor da Biblioteca de Tags Java)    |
 |JPA	    | Java Persistence API (API de Persistência Java)                  |
 
+##### 3.3 Arquitetura lógica
+
+A arquitetura das aplicações deve ser de no mínimo 3 camadas: • clientes simples do tipo navegador Web, que se contentam em enviar as requisições dos usuários aos sistemas• um servidor de aplicações JEE ou Web que contenha o core das aplicações • um servidor de dados, com bases de dados relacionais para realizar a persistência dos dadosOs servidores de aplicações e de bases de dados podem ser múltiplos (cluster) para realizar o balanceamento de carga sem impactar nas 3 camadas. Os postos cliente deverão estar equipados com um navegador Web independente do contexto do projeto (intranet, internet, extranet). Por padrão exige-se que as aplicações sejam compatíveis com o Mozilla FireFox e IE. O servidor de aplicações será o Glassfish. Como servidor web para testes locais poderá ser utilizado o Jetty ou Tomcat.O servidor de base de dados deverá ser por padrão o PostgreSQL (eventualmente a base de dados Caché e Sybase para os sistemas legados).
+
 #### 4. Padrões de projetos
 
 - [A importância dos Padrões de Projeto](https://www.devmedia.com.br/a-importancia-dos-padroes-de-projeto/22549)
