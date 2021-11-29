@@ -45,14 +45,43 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 
 #### 1. Aplicação de interfaces e classes abstratas
 
+##### 1.1 Interface
+
+- Suporta Herança Múltipla: Uma classe pode implementar múltiplas interfaces;
+- Permite apenas métodos abstratos: Nenhum método com implementação. Temos algumas exceções que chegaram com o Java 8, mas essa é a ideia principal;
+- Não contém atributos: Essa é outra regra que possui uma exceção. Enquanto é comum ouvirmos que interfaces não guardam o estado da classe por não suportarem a instância de atributos, elas ainda podem conter atributos constantes de classe (public static final);
+- Não contém construtor
+- Quando utilizar? O ideal é utilizar a interface quando várias classes diferentes compartilham apenas a assinatura de seus métodos. Em outras palavras, podemos ter várias classes sem qualquer relação entre si, mas se elas compartilharem as funcionalidades oferecidas pela interface que estamos criando, então faz total sentido que essas classes a implementem. Conclusão: interfaces estão aí para ditar o que uma classe deve fazer, ajudando a definir quais habilidades as classes que assinarem esse "contrato" devem possuir.
+
+##### 1.2 Classe abstrata
+
+- Não suporta Herança Múltipla
+- Pode conter métodos concretos ou abstratos: Isso quer dizer que todos os métodos de uma classe abstrata podem ser tanto concretos como, também, todos podem ser abstratos;
+- Pode conter atributos de todos os tipos
+- Contém construtor
+- Quando utilizar? Diferente da interface que pode estar envolvida com diversas classes sem qualquer relação entre si, uma classe abstrata continua sendo uma classe. E sabemos que quando uma classe X herda de uma classe Y é o mesmo que dizer que X é um Y. Ou seja, quando queremos criar várias classes que irão compartilhar um mesmo comportamento, uma classe abstrata é o componente ideal para ser a base para criação de todas elas, servindo como um molde para as futuras classes que irão derivar dela. Conclusão: classes abstratas definem a identidade de suas classes derivadas ditando o que e como uma classe deve se comportar, o que aumenta o acoplamento entre classes, porém faz total sentido em algumas situações.
+
 #### 2. Aplicação de ORM e Driver Nativo
 
-#### 3. Arquitetura de projetos
+##### 2.1 ORM  
 
-##### 3.1. Aplicação usando MVC, acesso a banco de dados com DAO, arquitetura de integração com SOA e REST.
+ORM (Object Relational Mapper) é uma técnica de mapeamento objeto relacional que permite fazer uma relação dos objetos com os dados que os mesmos representam.
 
-##### 3.2 Definições e Acrônimos
+- [Hibernate é o framework para persistência de dados mais utilizado em projetos Java.](https://www.devmedia.com.br/guia/hibernate/38312)
+- [NHibernate é livre e de código aberto (open source) e é a versão portada do Java para o Microsoft .NET do Hibernate.](https://www.devmedia.com.br/introducao-ao-nhibernate-framework-para-mapeamento-objeto-relacional/28671)
+- [Entity Framework](https://www.devmedia.com.br/entity-framework-tutorial/27764)
 
+##### 2.2 Driver Nativo (JDBC)
+
+O driver JDBC é o fator mais importante na performance de aplicações que utilizam base de dados para armazenar e filtrar informações.
+
+- [Java JDBC: Melhorando o Desempenho de Aplicações Java](https://www.devmedia.com.br/java-jdbc-melhorando-o-desempenho-de-aplicacoes-java/31976)
+
+#### 3. Padrões de Arquitetura de projetos
+
+>EX: Aplicação usando MVC, acesso a banco de dados com DAO, arquitetura de integração com SOA e REST.
+
+##### 3.1 Definições e Acrônimos
 
 |ACRÔNIMO	| DESCRIÇÃO                                                        |
 ----------| -----------------------------------------------------------------|
@@ -70,13 +99,15 @@ COBOL – IBM Rdz, TSO, Cobol 6, DB2
 |TLD	    | Tag Library Descriptor (Descritor da Biblioteca de Tags Java)    |
 |JPA	    | Java Persistence API (API de Persistência Java)                  |
 
-##### 3.3 Arquitetura lógica
+##### 3.2 Arquitetura lógica
 
 A arquitetura das aplicações deve ser de no mínimo 3 camadas: • clientes simples do tipo navegador Web, que se contentam em enviar as requisições dos usuários aos sistemas• um servidor de aplicações JEE ou Web que contenha o core das aplicações • um servidor de dados, com bases de dados relacionais para realizar a persistência dos dadosOs servidores de aplicações e de bases de dados podem ser múltiplos (cluster) para realizar o balanceamento de carga sem impactar nas 3 camadas. Os postos cliente deverão estar equipados com um navegador Web independente do contexto do projeto (intranet, internet, extranet). Por padrão exige-se que as aplicações sejam compatíveis com o Mozilla FireFox e IE. O servidor de aplicações será o Glassfish. Como servidor web para testes locais poderá ser utilizado o Jetty ou Tomcat.O servidor de base de dados deverá ser por padrão o PostgreSQL (eventualmente a base de dados Caché e Sybase para os sistemas legados).
 
 #### 4. Padrões de projetos
 
 - [A importância dos Padrões de Projeto](https://www.devmedia.com.br/a-importancia-dos-padroes-de-projeto/22549)
+
+Quando utilizados de forma correta, os padrões de projeto colaboram para a obtenção de um design flexível, mais coeso e menos acoplado.
 
 ##### 4.1 Padrões criacionais
 
