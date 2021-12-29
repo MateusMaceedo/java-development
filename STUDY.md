@@ -282,6 +282,7 @@ As aplicações desenvolvidas precisam estar altamente disponiveis. Além disso,
 - Atualizações suaves e tranquilas:
 O ideal é que as atualizações não ocasionem paradas ou instabilidades que prejudiquem os usuários.
 
-- Quando usar Kafka ou RabbitMQ?
-Kafka é ideal para casos de uso de big data que exigem o melhor rendimento.
-RabbitMQ é ideal para entrega de mensagens de baixa latência, garantias por mensagem e roteamento complexo.
+#### Quando usar Kafka ou RabbitMQ?
+
+- Kafka é ideal para casos de uso de big data que exigem o melhor rendimento.
+- RabbitMQ é ideal para entrega de mensagens de baixa latência, garantias por mensagem e roteamento complexo.
