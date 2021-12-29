@@ -316,5 +316,6 @@ Esse princípio basicamente diz que é melhor criar interfaces mais específicas
 5. DIP — Dependency Inversion Principle:
 Princípio da Inversão de Dependência — Dependa de abstrações e não de implementações.
 De acordo com Uncle Bob, esse princípio pode ser definido da seguinte forma:
-1. Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração.
-2. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
+
+- [x] - Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração.
+- [x] -  Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
