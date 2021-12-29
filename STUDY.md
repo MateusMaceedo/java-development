@@ -217,3 +217,67 @@ Padrões de arquitetura, porque aplicar?
 - [MVP - O Padrão MVP (Model-View-Presenter)](https://www.devmedia.com.br/o-padrao-mvp-model-view-presenter/3043)
 - [N-TIERS - O Padrão N-TIES (Arqui-N-Camadas)](https://pt.stackoverflow.com/questions/26735/o-que-realmente-%C3%A9-uma-aplica%C3%A7%C3%A3o-n-tier)
 - [MVVM - O Padrão MVVM (Model-View-ViewModel)](https://www.devmedia.com.br/entendendo-o-pattern-model-view-viewmodel-mvvm/18411)
+
+#### Como funciona a arquitetura monolítica
+
+As principais linguagens de desenvolvimento de aplicações oferecem abstrações para quebrar a complexidade dos sitemas em módulos. Entretando. são projetadas para a criação de um único executável monolítico, no qual toda a modularização utilizada é executada em uma mesma máquina. Assim, os módulos compartilhar recursos de processamento, memória, banco de dados e arquivos.
+
+Uma arquitetura monolítica típica de um sistema complexo pode ser representada pela fica abaixo, na qual todas as funções de negócio estão implementadas em um único processo.
+
+#### Desafio da arquitetura monolítica
+
+Ao longo do tempo o sistema vai crescendo, se tornando compleo e consumindo cada vez mais recursos, o que acaba gerando também alguns desafios substanciais para a manuntenção desse tuoi de arquitetura. São eles:
+
+- Aumento da complexidade e tamanho ao longo do tempo 
+O sitema se torna tão complexo que a manuntenção fica cada vez mais cara e lenta, porque os desenvolvedores têm que navegar em uma infinidade de códigos.
+
+- Alta dependência de componenetes de código
+Muitas funcões são interdepentes e entreleçadas, de forma que a inclusão ou manuntençaõ de componentes do sistema pode causas inconsistências ou comportamentos inesperados.
+
+- Escalabilidade do sistema é limitada
+Mesmo que apenas parte da funcionalidade seja necessária na nova instância, uma arquitetura monolítica exige que todos o sistema seja replicado, o que gera custos maiores do que o esperado.
+
+- Falta de flexibilidade
+Exige que os desenvolvedores fiquem amarrados à tecnologia originalmente escolhida para o sistema, mesmo que em algumas situações ela não seja a melhor escolha.
+
+- Dificuldade para colocar alterações em produção
+Qualquer mudança, por menor que seja, requer a reinicialização do sistema. Como isso pode causar algum risco operacional, é necessário que as equipes de desenvolvimento testes e manuntenção desse sistema acompanhem essas alterações.
+
+#### Como funciona a arquitetura de micro serviços
+A arquitetura de micro serviços é utilizada para desenvolver uma aplicação como um conjunto de pequenos serviços, que funcionam com seu próprio processo. Cada serviço é desenvolvido em torno de um conjunto de regras de negócio específicas, e é implementado de forma independente.
+
+Com isso, é possível quebrar algumas barreiras existentes no modelo de arquitetura monolítica.
+
+Benefícios dos micro serviços
+- Manuntenção e evolução dos serviços mais estáveis
+Como os desenvolvedores vão trabalhar com códigos que executam uma única função, os serviços individuais não vão acompanhar o potencial crescimento do sistema, evitando que precise carregar uma parte desnecessária da aplicação.
+
+- Serviços com baixo nivel de acomplamento e interdependência
+A manuntenção em um serviço especifico não interfere diretamente nas outras funcionalidades do sistema.
+
+- Escalabilidade do sistema
+Os deploys e replicações de micro serviços são feitos por meio de infraestrutura de servidores, máquinas virtuais e containers que se organizem de forma independente. Isso torna o crescimento e a possibilidade de adaptação do sistema muito mais flexível.
+
+- Redução de custos
+Cada aplicação só utiliza os serviços que necessita. Por isso, você não vai ter gastos extras carregando funcionalidades não utilizadas, afinal os custos estão diretamente associados à funcionalidade e à carga de uso do sistema.
+
+- Flexibilidade de tecnologia
+Por conta de baixo acoplamento entre os serviços, não é necessario amarrar os desenvolvedores a uma tecnologia específica, o que te permite escolher a melhor opção para atender cada caso. 
+
+Isso diminui os riscos de obdolescência tecnológica e possibilita a evolução constante do sistema.
+
+- Facilidade de colocar alterações em produção
+As mundanças no sistema são executadas por meio de alteraões e evoluções feitas nos serviços. Portanto, o sistema como um todo não precisa ser reinicializado para continuar funcionando. 
+
+Assim, o time de desenvolvimento que vai precisar acompanhar a mudança será apenas o de responsáveis pelos serviços que estão sendo alterados.
+
+Porque os micro serviços são importantes para os negócios?
+
+- Foco na experiência do usuário:
+Dinamismo e interatividade são conceitos que não podem ficar de fora quando o assunto é entregar valor para o usuário, independentemente da plataforma (o que inclui também os dispositivos móveis);
+
+- Escalabilidade: 
+As aplicações desenvolvidas precisam estar altamente disponiveis. Além disso, deve ser possivel executá-las em ambiente de nuvem;
+
+- Atualizações suaves e tranquilas:
+O ideal é que as atualizações não ocasionem paradas ou instabilidades que prejudiquem os usuários.
