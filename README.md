@@ -240,7 +240,7 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
 - <a>Aspose – <a href="http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx">http://www.aspose.com/categories/java-components/aspose.total-for-java/default.aspx</a>
   
 ### Serverless Java Container
-- <a>Spring - <a href="http://maven.apache.org/">https://search.maven.org/#artifactdetails%7Ccom.amazonaws.serverless%7Caws-serverless-java-container-spring%7C1.0%7Cjar</a>
+- <a>Spring - Java Container - <a href="http://maven.apache.org/">https://search.maven.org/#artifactdetails%7Ccom.amazonaws.serverless%7Caws-serverless-java-container-spring%7C1.0%7Cjar</a>
 
 ### Gerais
 - <a>Maven – Gerenciador de dependências – <a href="http://maven.apache.org/">http://maven.apache.org/</a>
