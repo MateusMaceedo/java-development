@@ -241,7 +241,10 @@ Dentro desse assunto, gostaria de publicar minha lista de frameworks e component
   
 ### Serverless Java Container
 - <a>Spring - Java Container - <a href="http://maven.apache.org/">https://search.maven.org/#artifactdetails%7Ccom.amazonaws.serverless%7Caws-serverless-java-container-spring%7C1.0%7Cjar</a>
-
+- <a>Spring Boot - Java Container - <a href="http://maven.apache.org/">https://search.maven.org/#artifactdetails%7Ccom.amazonaws.serverless%7Caws-serverless-java-container-spring%7C1.0%7Cjar</a>
+- <a>Jersey - Java Container - <a href="http://maven.apache.org/">https://search.maven.org/#artifactdetails%7Ccom.amazonaws.serverless%7Caws-serverless-java-container-jersey%7C1.0%7Cjar</a>
+- <a>Jersey - Java Container - <a href="http://maven.apache.org/">https://search.maven.org/#artifactdetails%7Ccom.amazonaws.serverless%7Caws-serverless-java-container-spark%7C1.0%7Cjar</a>
+  
 ### Gerais
 - <a>Maven – Gerenciador de dependências – <a href="http://maven.apache.org/">http://maven.apache.org/</a>
 - <a>JLicense – Gerenciador de licenciamento de uso de software – <a href="http://www.websina.com/products/jlicense.html">http://www.websina.com/products/jlicense.html</a>
