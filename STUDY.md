@@ -378,3 +378,8 @@ Assim, o time de desenvolvimento que vai precisar acompanhar a mudança será ap
 - Padrões de projetos: 
 - JDBC: O driver JDBC é o fator mais importante na performance de aplicações que utilizam base de dados para armazenar e filtrar informações.
 - Hibernate e JPA: Jdbc no Java da muito mais trabalho, e pra ajudar mais uso o JPA pra gerar uns métodos dinâmicos, E pra acessar a base eu uso o Intellij. Ele faz basicamente a conversão de obj pra base de dados.
+- Rest Api completa com Spring Boot, Swagger, Mysql e docker
+- AWS: Cloud Pública: AWS (Podem ser outras como Azure ou GCP).
+- Monitoramento: Splunk, AppDynamics, DataDog, Kibana, Grafana.  
+- Arquitetura e padrões: Solid, Clean Architeture, 12 Fatores, DDD, TDD, Event Driven, DataDriven, DevSecOps, WEBAPI(BFF);
+- Conhecimento em metodologias ágeis
