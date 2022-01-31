@@ -320,7 +320,8 @@ De acordo com Uncle Bob, esse princípio pode ser definido da seguinte forma:
 - [x] - Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração.
 - [x] -  Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
 
-#### Uma arquitetura monolítica típica de um sistema complexo, na qual todas as funções do negócio estão implementadas em um único processo. 
+#### Como funciona a arquitetura de monolítica
+Uma arquitetura monolítica típica de um sistema complexo, na qual todas as funções do negócio estão implementadas em um único processo. 
 
 Desafios da arquitetura monolítica   
 Ao longo do tempo o sistema vai crescendo, se tornando mais complexo e consumindo cada vez mais recursos, o que acaba gerando também alguns desafios substanciais para a manutenção desse tipo de arquitetura. São eles:  
