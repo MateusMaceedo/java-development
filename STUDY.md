@@ -370,3 +370,11 @@ As mudanças no sistema são executadas por meio de alterações e evoluções f
 
 Assim, o time de desenvolvimento que vai precisar acompanhar a mudança será apenas o de responsáveis pelos serviços que estão sendo alterados.
 
+#### Desenvolvimento Backend Java e Kotlin
+
+- Java 8, 11, 17
+- Kotlin versão atual
+- Ferramentas Netbeans, Eclipse, VSCode, Intellij
+- Padrões de projetos: 
+- JDBC: O driver JDBC é o fator mais importante na performance de aplicações que utilizam base de dados para armazenar e filtrar informações.
+- Hibernate e JPA: Jdbc no Java da muito mais trabalho, e pra ajudar mais uso o JPA pra gerar uns métodos dinâmicos, E pra acessar a base eu uso o Intellij. Ele faz basicamente a conversão de obj pra base de dados.
