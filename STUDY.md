@@ -400,3 +400,24 @@ O módulo JDBC consiste em uma camada de abstração JDBC. Ele ajuda você a ent
 OXM: Object XML Mappers (OCM) ajuda você a converter os objetos em formato XML e vice-versa.
 O módulo Java Messaging Service oferece recursos como produção e consumo de mensagens.
 Transação: Este módulo oferece método de gerenciamento declarativo e programático para implementação de interfaces exclusivas e para todos os tipos de POJOs (Plain Old Java Object)
+
+#### Spring Framework
+
+- Inversão de Controle (IoC)
+
+Inversão de Controle (IoC) é um padrão de projeto, em que objeto apenas declara suas dependências sem cria-las e delega a tarefa de construir tais dependências a um Container IoC (Core Container).
+
+- Injeção de Dedência é a implementação utilizada pelo Sprint Framework de aplicar a Invesão de Controle quando necessário. 
+
+- Exemplos de Estereótipos do Spring: @Component: É algo mais generico, se encaixa em qualquer situação, @ Service: Classe de serviço, @Repository: Classe de persistencia de dados e transações, @Controller: Criar os endpoints. 
+
+#### Spring Boot
+
+Spring Boot = Spring Framework + Servidor embutido (Tomcat ou Netty) - XML <bean> Configuration ou @Configuration
+
+Antigamente antes de dar start na aplicação, era necessario varios arquivos de configuração, tinha varios arquivos XML, que precisava definir, precisa definir o dispart servelet, coisa que agora já vem com configurações prontas pra gente já utilizar, precisamos também ter um servidor, (Servelet Container) pra subir a aplicação, com a utilização do Spring Boot, ficou algo muito mais simples e produtivo. 
+
+- Spring Boot: Para iniciar os projetos, contrução de API e microserviços nas versões atualizadas. 
+- Spring MVC: Para construir a aplicações WEB.
+- Spring Data JPA: Para construir as transações com o bancos de dados PostgreSQL, SQL Server, MySQL ou MongoDB.
+- Spring Validation: Para fazer validações iniciais de input e output da aplicação.
