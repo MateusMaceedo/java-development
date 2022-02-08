@@ -383,3 +383,20 @@ Assim, o time de desenvolvimento que vai precisar acompanhar a mudança será ap
 - Monitoramento: Splunk, AppDynamics, DataDog, Kibana, Grafana.  
 - Arquitetura e padrões: Solid, Clean Architeture, 12 Fatores, DDD, TDD, Event Driven, DataDriven, DevSecOps, WEBAPI(BFF);
 - Conhecimento em metodologias ágeis
+
+#### Experiências em Desenvolvimento
+
+Desenvolvimento de software focado na prevenção à fraudes e à lavagem de dinheiro. Envolvido com muitas tecnologias, como APIs (principalmente criadas com o Spring Stack), Single Page Applications (SPAs) criadas com EmberJS e Vue.JS.
+
+Manutenção e recapacitação da infraestrutura das aplicações, como servidores (Windows Servers e Linux RHEL), bancos de dados (SQL Server e Cassandra), Filas (Apache Active MQ e IBM MQ), Analytics Engines (ElasticSearch, Splunk) e logs centralizados (GrayLog / Splunk) , Gerenciamento de configuração de servidor (Puppet e Ansible), integração e implantação contínua (CI / CD) com Jenkins, qualidade e cheiro do código com o SonarQube e Fortify.
+
+Responsável por entender o escopo dos projetos com as áreas de negócios, definir a solução técnica com outras áreas de TI envolvidas e estimar a complexidade dos projetos. Também o principal contato com fornecedores de software.
+
+#### Acesso/Integração de Dados:
+A camada de Acesso e Integração de Dados consiste nos módulos JDBC, ORM, JDBC, OXM, JMS e Transação.
+
+ORM: O módulo ORM oferece consistência/portabilidade para codificar independentemente das tecnologias de acesso a dados. Será baseado no conceito de mapeamento orientado a objetos.
+O módulo JDBC consiste em uma camada de abstração JDBC. Ele ajuda você a entender a necessidade de executar a codificação relacionada ao JDBC.
+OXM: Object XML Mappers (OCM) ajuda você a converter os objetos em formato XML e vice-versa.
+O módulo Java Messaging Service oferece recursos como produção e consumo de mensagens.
+Transação: Este módulo oferece método de gerenciamento declarativo e programático para implementação de interfaces exclusivas e para todos os tipos de POJOs (Plain Old Java Object)
