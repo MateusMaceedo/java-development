@@ -415,7 +415,7 @@ Inversão de Controle (IoC) é um padrão de projeto, em que objeto apenas decla
 
 Spring Boot = Spring Framework + Servidor embutido (Tomcat ou Netty) - XML <bean> Configuration ou @Configuration
 
-Antigamente antes de dar start na aplicação, era necessario varios arquivos de configuração, tinha varios arquivos XML, que precisava definir, precisa definir o dispart servelet, coisa que agora já vem com configurações prontas pra gente já utilizar, precisamos também ter um servidor, (Servelet Container) pra subir a aplicação, com a utilização do Spring Boot, ficou algo muito mais simples e produtivo. 
+Antigamente antes de dar start na aplicação, era necessario varios arquivos de configuração, tinha varios arquivos XML, que precisava definir, precisava definir o dispart servelet, coisa que agora já vem com configurações prontas pra gente já utilizar, precisava também ter um servidor, (Servelet Container) pra subir a aplicação, com a utilização do Spring Boot, ficou algo muito mais simples e produtivo. 
 
 - Spring Boot: Para iniciar os projetos, contrução de API e microserviços nas versões atualizadas. 
 - Spring MVC: Para construir a aplicações WEB.
